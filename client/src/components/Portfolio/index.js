@@ -25,7 +25,7 @@ function Portfolio() {
 			name: 'Budget Tracker',
 			description:
 				'Budget Tracker is an Application that uses a noSQL database and offline persistance for a great user experience for managing their finances and budgeting no matter where they are.',
-			image: 'budget-tracker-image.png',
+			image: 'budgettracker.png',
 			technologies: [
 				'JavaScript',
 				'MongoDB',
@@ -40,25 +40,25 @@ function Portfolio() {
 			name: 'Weather',
 			description:
 				'A weather dashboard that shows current weather and five-day weather forecast for any city.',
-			image: 'weather-dashboard-image.png',
+			image: 'weather.png',
 			technologies: ['HTML/CSS', 'JavaScript'],
 			github: 'https://github.com/fadhaa89',
 			deployed: 'https://fadhaa89.github.io/weather/.',
 		},
 		{
-			name: 'Password Generator',
+			name: 'Password Maker',
 			description:
-				'This is an application that allows you to generate a password from 8 to 128 characters based on criteria you select.',
-			image: 'password-generator-image.png',
+				'This is an application that based on user inputed criteria and password length',
+			image: 'passwordmaker.jpg',
 			technologies: ['HTML/CSS', 'JavaScript'],
-			github: 'https://github.com/OwaisIslam/password-generator',
-			deployed: 'https://owaisislam.github.io/password-generator/',
+			github: 'https://github.com/fadhaa89/password-maker',
+			deployed: 'https://fadhaa89.github.io/password-maker/',
 		},
 		{
 			name: 'Note Taker',
 			description:
 				'This application allows the user to enter notes and as they save, they appear in the sidebar on the left. Notes can be deleted by clicking the trash can next to the corresponding note.',
-			image: 'note-taker-image.png',
+			image: 'note.png',
 			technologies: ['HTML/CSS', 'JavaScript', 'Express.js'],
 			github: 'https://github.com/fadhaa89/Note-Taker',
 			deployed: 'https://fadhaa89.github.io/Note-Taker/',
