@@ -10,7 +10,7 @@ function Footer() {
 					rel="noopener noreferrer"
 				>
 					<img
-						src={require("../../assets/logos/github-logo.png")}
+						src={require("assets/logos/logos/github logo.jpg")}
 						alt="Github"
 						className="logo"
 					></img>
@@ -23,14 +23,14 @@ function Footer() {
 					rel="noopener noreferrer"
 				>
 					<img
-						src={require("../../assets/logos/linkedin-logo.png")}
+						src={require("../../assets/logos/linkedin-logo.jpg")}
 						alt="LinkedIn"
 						className="logo"
 					></img>
 				</a>
 			</div>
 			<div>
-				<a
+				{/* <a
 					href="https://twitter.com/fadhaaabdullah"
 					target="_blank"
 					rel="noopener noreferrer"
@@ -40,7 +40,7 @@ function Footer() {
 						alt="Twitter"
 						className="logo"
 					></img>
-				</a>
+				</a> */}
 			</div>
 		</footer>
 	);
