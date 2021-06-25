@@ -8,9 +8,10 @@ function About() {
 			</div>
 			<div className="center">
 				<img
-					src={require('../../assets/images/recent-photo.png')}
+					src={require('../../assets/images/recent-photo.png').default}
 					alt="about-me"
 					className="photo"
+					style ={{width:'100px'}}
 				/>
 			</div>
 			<div>
