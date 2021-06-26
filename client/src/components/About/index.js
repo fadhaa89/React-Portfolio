@@ -23,7 +23,7 @@ function About() {
 					design.
 				</p>
 				<p>
-					my newly project on Interactive Front-End Project to{' '}
+					my latest project on Interactive Front-End Project to{' '}
 					<a
 						href="https://github.com/fadhaa89/auto-tracker"
 						target="_blank"
