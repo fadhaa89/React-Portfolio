@@ -8,9 +8,5 @@ This is my portfolio created with React.js. It contains an About page, Portfolio
 
 
  # Application Link
- https://github.com/fadhaa89/React-Portfolio
+ https://github.com/fadhaa89/React-Portfolio  </br>
  https://fadhaa89.github.io/React-Portfolio/
-
-
- ![Example Gif](./assets/images/example21.gif)
-
