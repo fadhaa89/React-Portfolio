@@ -31,7 +31,8 @@ function Project(props) {
 		<Card style={{ width: "18rem" }}>
 			<Card.Img
 				variant="top"
-				src={require(`../../assets/images/${image}`)}
+				src={require(`../../assets/images/${image}`).default}
+				style ={{width:'200px'}}
 				className="card-image"
 			/>
 			<div className="center">

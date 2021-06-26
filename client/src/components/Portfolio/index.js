@@ -1,6 +1,6 @@
 import React from 'react';
 import Project from '../Project';
-
+// import { Image } from '../../assets/images/
 function Portfolio() {
 	const projects = [
 	
@@ -8,7 +8,7 @@ function Portfolio() {
 			name: 'Auto Tracker',
 			description:
 				'This is your personal automobile information tracking system. Track time dependent, vehicle specific information from a single application, available on any web-enabled device.',
-			image: 'auto-tracker-image.png',
+			image:'Autotracker.png',
 			technologies: [
 				'HTML/CSS',
 				'JavaScript',
@@ -49,7 +49,7 @@ function Portfolio() {
 			name: 'Password Maker',
 			description:
 				'This is an application that based on user inputed criteria and password length',
-			image: 'passwordmaker.jpg',
+			image: 'passwordmaker.png',
 			technologies: ['HTML/CSS', 'JavaScript'],
 			github: 'https://github.com/fadhaa89/password-maker',
 			deployed: 'https://fadhaa89.github.io/password-maker/',
@@ -90,9 +90,6 @@ function Portfolio() {
 				<ul className="flex-row mobile-row">
 					<li className="padding">
 						<Project projects={projects[4]}></Project>
-					</li>
-					<li className="padding">
-						<Project projects={projects[5]}></Project>
 					</li>
 				</ul>
 			</div>
