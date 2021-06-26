@@ -1,5 +1,5 @@
 import React from "react";
-import { AiFillGithub, AiFillLinkedin} from 'react-icons/fa';
+import { AiFillGithub, AiFillLinkedin} from 'react-icons/ai';
 
 
 
