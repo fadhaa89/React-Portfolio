@@ -1,4 +1,7 @@
 import React from "react";
+import { AiFillGithub, AiFillLinkedin} from 'react-icons/fa';
+
+
 
 function Footer() {
 	return (
@@ -9,11 +12,8 @@ function Footer() {
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					<img
-						src={require("assets/logos/logos/github logo.jpg")}
-						alt="Github"
-						className="logo"
-					></img>
+					 <AiFillGithub/>
+
 				</a>
 			</div>
 			<div>
@@ -22,25 +22,13 @@ function Footer() {
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					<img
-						src={require("../../assets/logos/linkedin-logo.jpg")}
-						alt="LinkedIn"
-						className="logo"
-					></img>
+					<AiFillLinkedin/>
+               
+
 				</a>
 			</div>
 			<div>
-				{/* <a
-					href="https://twitter.com/fadhaaabdullah"
-					target="_blank"
-					rel="noopener noreferrer"
-				>
-					<img
-						src={require("../../assets/logos/twitter-logo.png")}
-						alt="Twitter"
-						className="logo"
-					></img>
-				</a> */}
+
 			</div>
 		</footer>
 	);
