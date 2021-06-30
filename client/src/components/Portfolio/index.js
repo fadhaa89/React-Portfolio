@@ -63,6 +63,14 @@ function Portfolio() {
 			github: 'https://github.com/fadhaa89/Note-Taker',
 			deployed: 'https://fadhaa89.github.io/Note-Taker/',
 		},
+		{
+			name: 'Horiseon',
+			description:
+				'This application allows adding semantic HTMLs to the Horiseon Website.',
+			technologies: ['HTML/CSS'],
+			github: 'https://fadhaa89.github.io/Horiseon/',
+			deployed: 'https://github.com/fadhaa89/Horiseon',
+		},
 	];
 
 	return (
