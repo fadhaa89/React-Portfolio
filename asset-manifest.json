@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-Porfolio/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/React-Porfolio/static/js/main.e172e45d.chunk.js",
+    "main.js.map": "/React-Porfolio/static/js/main.e172e45d.chunk.js.map",
+    "runtime-main.js": "/React-Porfolio/static/js/runtime-main.66c20a3c.js",
+    "runtime-main.js.map": "/React-Porfolio/static/js/runtime-main.66c20a3c.js.map",
+    "static/js/2.df750f8e.chunk.js": "/React-Porfolio/static/js/2.df750f8e.chunk.js",
+    "static/js/2.df750f8e.chunk.js.map": "/React-Porfolio/static/js/2.df750f8e.chunk.js.map",
+    "static/js/3.0a6f4873.chunk.js": "/React-Porfolio/static/js/3.0a6f4873.chunk.js",
+    "static/js/3.0a6f4873.chunk.js.map": "/React-Porfolio/static/js/3.0a6f4873.chunk.js.map",
+    "index.html": "/React-Porfolio/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/React-Porfolio/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.df750f8e.chunk.js.LICENSE.txt": "/React-Porfolio/static/js/2.df750f8e.chunk.js.LICENSE.txt",
+    "static/media/Autotracker.png": "/React-Porfolio/static/media/Autotracker.0dc121ac.png",
+    "static/media/budgettracker.png": "/React-Porfolio/static/media/budgettracker.90457b41.png",
+    "static/media/example21.gif": "/React-Porfolio/static/media/example21.2065b70a.gif",
+    "static/media/fad.png": "/React-Porfolio/static/media/fad.03178a99.png",
+    "static/media/note.png": "/React-Porfolio/static/media/note.4eeb1eb4.png",
+    "static/media/passwordmaker.png": "/React-Porfolio/static/media/passwordmaker.be6390a0.png",
+    "static/media/recent-photo.png": "/React-Porfolio/static/media/recent-photo.64101acf.png",
+    "static/media/weather.png": "/React-Porfolio/static/media/weather.d5c8851f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66c20a3c.js",
+    "static/js/2.df750f8e.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e172e45d.chunk.js"
+  ]
+}
