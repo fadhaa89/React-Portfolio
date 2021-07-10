@@ -71,6 +71,14 @@ function Portfolio() {
 			github: 'https://fadhaa89.github.io/Horiseon/',
 			deployed: 'https://github.com/fadhaa89/Horiseon',
 		},
+		{
+			name: 'Auto-Tracker-2',
+			description:
+				'project03/this is an auto tracking system',
+			technologies: ['GraphQL,Apollo Server,MongoDB,Redux,Stripe,React'],
+			github: 'https://autotrackerbackend.herokuapp.com/',
+			deployed: 'https://github.com/fadhaa89/Horiseon',
+		},
 	];
 
 	return (
